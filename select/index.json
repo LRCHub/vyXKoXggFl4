@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ケムリの後に",
+  "base_artist": "susumu.",
+  "createdAt": "2026-01-13T11:35:08.362960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケムリの後に",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_ケムリの後に_susumu..txt"
+    }
+  ]
+}
